@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Anderson Saraiva",
+      "email": "contato1@email.com",
+      "phone": "(11) 94444-5555",
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "name": "Messi",
+      "email": "contato2@email.com",
+      "phone": "(11) 94444-5555",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "name": "Cristiano Ronaldo",
+      "email": "contato3@email.com",
+      "phone": "(11) 94444-5555",
+      "favorite": true
+    },
+    {
+      "id": 4,
+      "name": "Ronaldinho Gaúcho",
+      "email": "contato4@email.com",
+      "phone": "(11) 94444-5555",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "name": "Adriano Imperador",
+      "email": "contato5@email.com",
+      "phone": "(11) 94444-5555",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "name": "Neymar Junior",
+      "email": "contato6@email.com",
+      "phone": "(11) 94444-5555",
+      "favorite": true
+    }
+  ]
+}
